@@ -1,36 +1,33 @@
 * [Home](README.md)
-* Notebook 1: Air Pollution Data Preparation
-  * [Overview](docs/notebook1.md#overview)
-* Notebook 2: Related Features Preparation
-  * [Overview](docs/notebook2.md#overview)
-  * [Objective](docs/notebook2.md#objective)
-  * [Workflow](docs/notebook2.md#workflow)
-  * [Data Process Pipeline](docs/notebook2.md#data-process-pipeline)
-  * [Outputs](docs/notebook2.md#outputs)
-* Notebook 3: Dataset Integration
-  * [Overview](docs/notebook3.md#overview)
-  * [Objective](docs/notebook3.md#objective)
-  * [Workflow](docs/notebook3.md#workflow)
-  * [Outputs](docs/notebook3.md#outputs)
-* Notebook 4: Exploratory Data Analysis
-  * [Overview](docs/notebook4.md#overview)
-  * [Objective](docs/notebook4.md#objective)
-  * [Methodology](docs/notebook4.md#methodology)
-* Notebook 5: NO₂ Explanatory Models
-  * [Overview](docs/notebook5.md#overview)
-  * [Objective](docs/notebook5.md#objective)
-  * [Workflow](docs/notebook5.md#workflow)
-  * [Modelling Results](docs/notebook5.md#modelling-results)
-* Notebook 6: Addis Ababa Industrial Production Model
-  * [Overview](docs/notebook6.md#overview)
-  * [Objective](docs/notebook6.md#objective)
-  * [Modelling Results](docs/notebook6.md#modelling-results)
-  * [Conclusion](docs/notebook6.md#conclusion)
-* Notebook 7: Baghdad Congestion Model
-  * [Overview](docs/notebook7.md#overview)
-  * [Objective](docs/notebook7.md#objective)
-  * [Workflow](docs/notebook7.md#workflow)
-  * [Modelling Results](docs/notebook7.md#modelling-results)
-  * [Conclusion](docs/notebook7.md#conclusion)
-* Appendix - Code Assisting Main Project
-  * [Overview](docs/appendix-codeassistingmainproject.md#overview)
+
+* Project Materials
+  * [Research-Proposal](docs/research-proposal.md)
+  * [Gallery](docs/gallery.md)
+  * [Project-Timeline](docs/project-timeline.md)
+
+* Relevant Packages
+  * [Wazeeasy](https://github.com/datapartnership/wazeasy)
+
+* Working with GitHub
+  * [Folder-And-Naming](docs/folder-and-naming.md)
+  * [Presenting-Results](docs/presenting-results.md)
+  * [Notebooks-Workflows](docs/notebooks-workflows.md)
+  * [Git-Workflows](docs/git-workflows.md)
+
+* Data Analysis
+  * [01 Air Pollution Data Preparation](docs/notebooks-readme/01_air_pollution_data_preparation.md)
+  * [02 Related Features Preparation](docs/notebooks-readme/02_related_features_preparation.md)
+  * [03 Dataset Integration](docs/notebooks-readme/03_dataset_integration.md)
+  * [04 Exploratory Data Analysis](docs/notebooks-readme/04_exploratory_data_analysis.md)
+  * [Exploratory-Data-Analysis](docs/Exploratory-Data-Analysis.md)
+
+* Models
+  * [05 No2 Explanatory Model](docs/notebooks-readme/05_no2_explanatory_model.md)
+  * [06 Addis Ababa Industrial Production Model](docs/notebooks-readme/06_addis_ababa_industrial_production_model.md)
+  * [07 Baghdad Congestion Model](docs/notebooks-readme/07_baghdad_congestion_model.md)
+
+* Modelling Results
+  * [Results-And-Discussion](docs/Results-And-Discussion.md)
+
+* Appendix
+  * [Appendix](docs/notebooks-readme/appendix.md)
