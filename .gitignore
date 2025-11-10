@@ -99,5 +99,5 @@ src/*/_version.py
 data/*
 
 # demo-data as an exception
-!data/demo-data/
-!data/demo-data/**
+# !data/demo-data/
+# !data/demo-data/**
