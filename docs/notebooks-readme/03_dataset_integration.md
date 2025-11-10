@@ -40,7 +40,7 @@ It consolidates outputs from:
 
 - `city_mesh_data.gpkg`: GeoDataFrame with all integrated features per mesh cell, one file per day (731 files for each city).
 - `full_city_df.parquet`: Concatenated DataFrame including all dates in one file, convenient for downstream analysis (one file for each city).
-- `city_timeResolution_spaceResolution.csv`: Aggregated DataFrame including all dates in one file, in differen data resolution.
+- `city_timeResolution_spaceResolution.csv`: Aggregated DataFrame including all dates in one file, in different data resolution.
 
 
 ## 0 Init: Prepare Packages and Configuration
