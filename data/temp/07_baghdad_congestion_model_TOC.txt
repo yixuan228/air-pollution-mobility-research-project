@@ -1,0 +1,31 @@
+│   └── Notebook 7: Baghdad Congestion Model
+│       ├── README
+│       │   ├── Overview
+│       │   ├── Objective
+│       │   ├── Workflow
+│       │   │   ├── 1. Data Preparation
+│       │   │   └── 2. Modelling and Evaluation
+│       │   ├── Modelling Results
+│       │   ├── Interpretation of Best Congestion Model
+│       │   │   ├── Model Formulation
+│       │   │   └── NO₂ Coefficient and Elasticity
+│       │   └── Conclusion
+│       ├── 0 Init: Prepare Packages and Configuration
+│       ├── 1 Data Loading
+│       ├── 2 Models y=TCI/road_len
+│       │   ├── 2.1 Simple linear Regression
+│       │   ├── 2.2  Log-log Linear Regression
+│       │   └── 2.3 Polynomial Dg3
+│       ├── 3 Models y=TCI
+│       │   ├── 3.1 Simple linear Regression
+│       │   ├── 3.2 Log-log Linear Regression
+│       │   └── 3.3 Polynomial Dg3
+│       ├── 4 Experimentation to Improve Performance
+│       │   ├── 4.1 Simple Lasso
+│       │   ├── 4.2 Random Forest Experimentation
+│       │   ├── 4.3 LightGBM experimentation
+│       │   └── 4.4 Neural Network
+│       └── 5  Evaluate Model Performance
+│           ├── 5.1 Metrics: RMSE and R Square
+│           ├── 5.2 Metrics: AIC, BIC
+│           └── 5.3 Best Model Traceback

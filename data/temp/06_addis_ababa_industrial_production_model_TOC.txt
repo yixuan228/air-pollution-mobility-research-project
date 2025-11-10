@@ -1,0 +1,16 @@
+│   └── Notebook 6: Addis Ababa Industrial Production Model
+│       ├── README
+│       │   ├── Overview
+│       │   ├── Objective
+│       │   ├── Modelling Results
+│       │   │   ├── Best Model and NO₂ Significance
+│       │   │   ├── Feature Contribution
+│       │   │   └── Approximate Elasticity
+│       │   └── Conclusion
+│       ├── 0 Init: Prepare Packages and Configuration
+│       ├── 1 Data Import and Feature Engineering
+│       ├── 2 XGBoost Model
+│       │   ├── 2.1 Fine-tune the Best Parameter Combination
+│       │   ├── 2.2 Feature Importance - SHAP Values
+│       │   └── 2.3 Approximate Feature Elasticity
+│       └── 3 XGBoost Model Without NO₂
