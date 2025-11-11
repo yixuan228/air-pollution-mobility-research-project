@@ -1,7 +1,5 @@
 # Air Pollution and Economic Activity  
 
- 
-
 ## Research Objective 
 
 Nitrogen Dioxide (NO2) is a byproduct of combustion and its concentration in the atmosphere has been used as a measure of economic activity ​1​. The short atmospheric life of NO2 (less than a day) means that densities are closely correlated to emissions ​2​.  Global concentration of NO2 is available through satellite remote sensing datasets making it a valuable resource for many data-poor countries.  
