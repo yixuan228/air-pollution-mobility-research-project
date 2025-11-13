@@ -1,6 +1,6 @@
 * [Home](README.md)
 
-* Project Materials
+<!-- * Project Materials
   * [Research-Proposal](docs/research-proposal.md)
   * [Gallery](docs/gallery.md)
   * [Project-Timeline](docs/project-timeline.md)
@@ -30,4 +30,4 @@
   * [Results-And-Discussion](docs/Results-And-Discussion.md)
 
 * Appendix
-  * [Appendix](docs/notebooks-readme/appendix.md)
+  * [Appendix](docs/notebooks-readme/appendix.md) -->
